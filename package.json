@@ -1,0 +1,9 @@
+{
+    "name": "jimjam",
+    "description": "let the jims jam",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "jake": "*"
+    }
+}
